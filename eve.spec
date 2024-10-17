@@ -4,7 +4,7 @@ Version: 0.3.0
 Release: %mkrel 1
 License: LGPLv3+
 Group: Graphical desktop/Enlightenment
-URL: http://trac.enlightenment.org/e/wiki/Eve
+URL: https://trac.enlightenment.org/e/wiki/Eve
 Source: http://download.enlightenment.org/snapshots/LATEST/%{name}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: webkit-efl-devel
